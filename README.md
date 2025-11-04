@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there, I'm Edison Hirwa 👋
 
-<!--
-**EdisonHirwa/EdisonHirwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate developer who loves building cool things with code, collaborating in open-source, and constantly learning new technologies.
+
+- 🌱 Currently learning: [Your focus]
+- 👯 Looking to collaborate on: [Types of projects or technologies]
+- 💬 Ask me about: [Your skills/interests]
+- 😄 Pronouns: [Your pronouns]
+- ⚡ Fun fact: [Something fun about you!]
+
+## 🛠️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+<!-- Add more technologies as you like -->
+
+## 📫 How to reach me
+
+- Email: [your.email@example.com]
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+
+## 🌟 Projects
+
+- [Project One](https://github.com/EdisonHirwa/project-one): Short project description
+- [Project Two](https://github.com/EdisonHirwa/project-two): Short project description
+
+<!-- Add more projects as you wish -->
+
+## 📈 GitHub Stats
+
+![EdisonHirwa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdisonHirwa&show_icons=true&hide_title=true)
+![EdisonHirwa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=EdisonHirwa)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdisonHirwa&layout=compact)
+
+---
+
+⭐️ Feel free to check out my repositories and connect!
