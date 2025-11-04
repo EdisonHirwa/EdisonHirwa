@@ -1,4 +1,4 @@
-# Hi there, I'm Edison Hirwa 👋
+                                                        # Hi there, I'm Edison Hirwa 👋
 
 Welcome to my GitHub profile!
 
@@ -6,17 +6,18 @@ Welcome to my GitHub profile!
 
 I'm a passionate developer who loves building cool things with code, collaborating in open-source, and constantly learning new technologies.
 
-- 🌱 Currently learning: IT
-- 👯 Looking to collaborate on: [Types of projects or technologies]
-- 💬 Ask me about: [Your skills/interests]
-- 😄 Pronouns: [Your pronouns]
-- ⚡ Fun fact: [Something fun about you!]
+- 🌱 I’m currently learning **IT (Networking, Web Development, and Cybersecurity)**
+- 👯 I’m looking to collaborate on **web apps, automation tools, and open-source projects**
+- 💬 Ask me about **PHP, React, MySQL, networking, or anything tech-related**
+- ⚡ Fun fact: **I can fix your Wi-Fi and build your website at the same time 😄**
 
-## 🛠️ Tech Stack
+##🛠️ Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 <!-- Add more technologies as you like -->
 
 ## 📫 How to reach me
