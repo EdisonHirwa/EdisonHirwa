@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 
 I'm a passionate developer who loves building cool things with code, collaborating in open-source, and constantly learning new technologies.
 
-- 🌱 Currently learning: [Your focus]
+- 🌱 Currently learning: IT
 - 👯 Looking to collaborate on: [Types of projects or technologies]
 - 💬 Ask me about: [Your skills/interests]
 - 😄 Pronouns: [Your pronouns]
@@ -21,7 +21,7 @@ I'm a passionate developer who loves building cool things with code, collaborati
 
 ## 📫 How to reach me
 
-- Email: [your.email@example.com]
+- Email: hirwae15@gmail.com
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
 - Twitter: [@yourhandle](https://twitter.com/yourhandle)
 
